@@ -1,4 +1,4 @@
-👋 Hi, I'm [Your Name]
+👋 Hi, I'm [Vinay vashisht]
 🎯 Aspiring Python Developer | Data Enthusiast | Problem Solver
 
 💻 I love turning data into stories and building Python-based solutions — from automation scripts to data visualizations.
